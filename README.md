@@ -11,6 +11,13 @@ My resume - https://ussuriysk.hh.ru/applicant/resumes/view?resume=90cb76daff0bb0
 * analysis of clickstream data with Spark (https://github.com/EVMik205/DE_course_task_3.3)
 * Apache Airflow sample project (https://github.com/EVMik205/DE_course_task_3.6)
 
+### Skills
+* databases: PostgreSQL, Sqlite, MySQL
+* big data tools: Apache Hadoop, Google BigQuery
+* ETL tools: Apache Spark, Apache Airflow
+* programming: Python, R, Scala
+* Linux tools: bash, AWK, docker, classic UNIX cmdline tools (sed, grep, cron, make etc.)
+
 <!---
 EVMik205/EVMik205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
