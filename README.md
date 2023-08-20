@@ -10,10 +10,11 @@
 
 ### Skills
 * databases: PostgreSQL, Clickhouse
+* visualisation: Tableau, Redash
 * big data tools: Apache Hadoop, Google BigQuery
 * ETL tools: Apache Spark, Apache Airflow
-* programming: Python, R, C++, Scala
-* tools: bash, docker, git, svn
+* programming: Python, R, C++
+* tools: bash, docker, git, svn, jira
 
 <!---
 EVMik205/EVMik205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
