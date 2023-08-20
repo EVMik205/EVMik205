@@ -1,22 +1,19 @@
-- 👋 Hi, I’m Evgeniy Zheldak, junior Data Engineer.
-- 👀 I’m interested in Data Engineering, Data Science, Machine Learning, Linux, DevOps.
-- 🌱 I’m currently learning Data Engineering.
-- 💞️ I’m looking to collaborate on DS and DE projects.
-- 📫 How to reach me email me zheldak@inbox.ru or telegram @evgeniy205
-
-My resume - https://ussuriysk.hh.ru/applicant/resumes/view?resume=90cb76daff0bb0f7570039ed1f704845785661
+- 👋 Hi, I’m Evgeniy Zheldak, junior data analyst.
+- 👀 I’m interested in data analytics, data science, machine learning and data engineering.
+- 🌱 I’m currently learning Data analytics in Karpov.Courses.
+- 💞️ I’m looking to collaborate on data analysis projects.
+- 📫 How to reach me - telegram @evgeniy205
 
 ### My projects
-* ETL pipeline for creating a data mart for stock price analysis (https://github.com/EVMik205/DE_project_2)
-* analysis of clickstream data with Spark (https://github.com/EVMik205/DE_course_task_3.3)
-* Apache Airflow sample project (https://github.com/EVMik205/DE_course_task_3.6)
+* retention cohort analysis and RFM-segmentatin (https://github.com/EVMik205/KC_DA_middle_project)
+* ETL data mart pipeline for stock price analysis (https://github.com/EVMik205/DE_project_2)
 
 ### Skills
-* databases: PostgreSQL, Sqlite, MySQL
+* databases: PostgreSQL, Clickhouse
 * big data tools: Apache Hadoop, Google BigQuery
 * ETL tools: Apache Spark, Apache Airflow
-* programming: Python, R, Scala
-* Linux tools: bash, AWK, docker, classic UNIX cmdline tools (sed, grep, cron, make etc.)
+* programming: Python, R, C++, Scala
+* tools: bash, docker, git, svn
 
 <!---
 EVMik205/EVMik205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
