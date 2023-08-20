@@ -5,7 +5,7 @@
 - 📫 How to reach me - telegram @evgeniy205
 
 ### My projects
-* retention cohort analysis and RFM-segmentatin (https://github.com/EVMik205/KC_DA_middle_project)
+* retention cohort analysis and RFM-segmentation (https://github.com/EVMik205/KC_DA_middle_project)
 * ETL data mart pipeline for stock price analysis (https://github.com/EVMik205/DE_project_2)
 
 ### Skills
