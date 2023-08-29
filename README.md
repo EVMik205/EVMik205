@@ -1,20 +1,20 @@
-- 👋 Hi, I’m Evgeniy Zheldak, junior data analyst.
-- 👀 I’m interested in data analytics, data science, machine learning and data engineering.
-- 🌱 I’m currently learning Data analytics in Karpov.Courses.
-- 💞️ I’m looking to collaborate on data analysis projects.
-- 📫 How to reach me - telegram @evgeniy205
+- 👋 Приветствую, меня зовут Евгений и я аналитик данных.
+- 👀 Мои профессиональные интересы: анализ и обработка данных, математическая статистика, визуализация, инженерия данных.
+- 🌱 Постоянно совершенствую свои навыки, последнее что прошёл: "аналитик данных" от Karpov.Courses.
+- 💞️ Мои хобби: фантастика, MMORPG и посткроссинг.
+- 📫 Связать со мной - Телеграм @evgeniy205
 
-### My projects
-* retention cohort analysis and RFM-segmentation (https://github.com/EVMik205/KC_DA_middle_project)
-* ETL data mart pipeline for stock price analysis (https://github.com/EVMik205/DE_project_2)
+### Мои проекты
+* когортный анализ retention и RFM-сегментация (https://github.com/EVMik205/KC_DA_middle_project)
+* ETL-конвейер сборки витрины данных для анализа курсов валют (https://github.com/EVMik205/DE_project_2)
 
-### Skills
-* databases: PostgreSQL, Clickhouse
-* visualisation: Tableau, Redash
-* big data tools: Apache Hadoop, Google BigQuery
-* ETL tools: Apache Spark, Apache Airflow
-* programming: Python, R, C++
-* tools: bash, docker, git, svn, jira
+### Основные навыки
+* базы данных: PostgreSQL, Clickhouse
+* визуализация: Tableau, Redash
+* инструменты больших данных: Apache Hadoop, Google BigQuery
+* ETL инструменты: Apache Spark, Apache Airflow
+* языки программирования: Python, R, C++
+* прочее: bash, docker, git, svn, jira
 
 <!---
 EVMik205/EVMik205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
